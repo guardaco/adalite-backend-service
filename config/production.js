@@ -9,7 +9,7 @@ module.exports = {
     port: 8080,
     apiConfig: {
       addressesRequestLimit: 50,
-      txHistoryResponseLimit: 20,
+      txHistoryResponseLimit: 30,
     },
     importerUrl: 'http://icarus-importer:8200',
   },
