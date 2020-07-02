@@ -11,6 +11,6 @@ module.exports = {
       addressesRequestLimit: 50,
       txHistoryResponseLimit: 30,
     },
-    importerUrl: 'http://icarus-importer:8200',
+    importerUrl: 'http://tangata-manu:8080',
   },
 }
